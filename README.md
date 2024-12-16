@@ -6,3 +6,5 @@
   <h4>Fiz alguns pequenos acrecimos para escolha do usuario de poder converter tanto anos, quanto dias.</h4>
 <h3>Day2 - Find Nemo</h3>
   <h4> Buscar a posição de uma palavra, no caso atual 'Nemo', dentro de uma frase e retornar a posição da mesma;</h4>
+<h3>Day3 - Barbecue Skewers </h3>
+ <h4> Buscar em uma Lista a quatidade de espetos Vegetarianos e não vegetarianos</h4>
